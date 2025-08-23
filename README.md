@@ -2,3 +2,6 @@
 Aulas Práticas sobre POO: Problema Gerador : Jogo de cartas
 
 ## Projeto de jogo de cartas
+
+
+Pablo Vital - https://github.com/Pablojr89/ParOuImpar
