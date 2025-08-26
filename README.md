@@ -1,4 +1,4 @@
-# Carteado
-Aulas Práticas sobre POO: Problema Gerador : Jogo de cartas
+# \### \*\*Truco Simplificado - Fabiano Lisboas\*\*
 
-## Projeto de jogo de cartas
+# \- \*\*Repositório\*\*: https://github.com/Ada-Turma-1386/Carteado-final-Fabiano-Lisboas
+
